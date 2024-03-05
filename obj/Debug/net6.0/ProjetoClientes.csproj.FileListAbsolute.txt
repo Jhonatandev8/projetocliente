@@ -1,0 +1,44 @@
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\ProjetoClientes.exe
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\ProjetoClientes.deps.json
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\ProjetoClientes.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\ProjetoClientes.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\ProjetoClientes.pdb
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.csproj.AssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.csproj.CopyComplete
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\refint\ProjetoClientes.dll
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.pdb
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ProjetoClientes.genruntimeconfig.cache
+C:\Users\Jhonatan\Desktop\Jhon\Projeto Clientes\obj\Debug\net6.0\ref\ProjetoClientes.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\ProjetoClientes.exe
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\ProjetoClientes.deps.json
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\ProjetoClientes.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\ProjetoClientes.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\ProjetoClientes.pdb
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.csproj.AssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.csproj.CopyComplete
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\refint\ProjetoClientes.dll
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.pdb
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ProjetoClientes.genruntimeconfig.cache
+C:\Users\Jhonatan\Desktop\Jhon\projetoclientes\obj\Debug\net6.0\ref\ProjetoClientes.dll
